@@ -3,7 +3,7 @@
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
 
 
-## This Project demo link
+##  Project demo link  [`https://effulgent-griffin-550a83.netlify.app/`](https://effulgent-griffin-550a83.netlify.app/) 
 
 ## Usage
 
